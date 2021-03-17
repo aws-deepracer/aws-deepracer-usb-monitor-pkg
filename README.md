@@ -104,3 +104,7 @@ The  usb_monitor_pkg_launch.py is also included in this package that gives an ex
 |usb_file_system_subscribe|USBFileSystemSubscribeSrv|Service that is called to add files/folders to the watchlist so that when they are found in the USB drive, a file system notification will be triggered.|
 |usb_mount_point_manager|USBMountPointManagerSrv|Service exposing  the functionality to safely increment/decrement the reference counter for the mount points.|
 
+## Resources
+
+* AWS DeepRacer Opensource getting started: [https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md)
+
