@@ -24,6 +24,10 @@ The usb_monitor_pkg specifically depends on the following ROS2 packages as build
 
 Open up a terminal on the DeepRacer device and run the following commands as root user.
 
+1. Switch to root user before you source the ROS2 installation:
+
+        sudo su
+
 1. Source the ROS2 Foxy setup bash script:
 
         source /opt/ros/foxy/setup.bash 
@@ -57,6 +61,10 @@ The usb_monitor_node provide basic system level functionality for the AWS DeepRa
 ### Run the node
 
 To launch the built usb_monitor_node as root user on the DeepRacer device open up another terminal on the DeepRacer device and run the following commands as root user:
+
+1. Switch to root user before you source the ROS2 installation:
+
+        sudo su
 
 1. Source the ROS2 Foxy setup bash script:
 
